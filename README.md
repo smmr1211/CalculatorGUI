@@ -2,7 +2,8 @@
 A simple GUI calculator built with Java.
 
 ## Demo
-<video src="demo.mp4" controls="controls" width="100%"></video>
+<video src="https://github.com/user-attachments/assets/8adebb98-1434-4c85-b483-0f0fa9853d5e" width="300" controls="controls"></video>
+
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
